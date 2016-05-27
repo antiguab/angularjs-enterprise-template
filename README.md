@@ -1,4 +1,4 @@
-**excerpts from AngularJS seed**
+**excerpts from AngularJS seed...**
 
 ### Install Dependencies
 
